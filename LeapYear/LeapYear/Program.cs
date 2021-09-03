@@ -18,7 +18,7 @@ namespace LeapYear
             {
                 Console.WriteLine("{0} is not a Leap Year.", Year);
             }
-            //Console.ReadLine();
+            
         }
     }
 }
